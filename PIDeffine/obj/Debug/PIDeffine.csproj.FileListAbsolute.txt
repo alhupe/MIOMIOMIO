@@ -1,0 +1,425 @@
+C:\Users\algagu01\Desktop\PIDeffine\obj\Debug\PIDeffine.csproj.AssemblyReference.cache
+C:\Users\algagu01\Desktop\PIDeffine\obj\Debug\PIDeffine.Properties.Resources.resources
+C:\Users\algagu01\Desktop\PIDeffine\obj\Debug\PIDeffine.csproj.GenerateResource.cache
+C:\Users\algagu01\Desktop\PIDeffine\obj\Debug\PIDeffine.csproj.CoreCompileInputs.cache
+C:\Users\algagu01\Desktop\PIDeffine\bin\Debug\PIDeffine.exe.config
+C:\Users\algagu01\Desktop\PIDeffine\bin\Debug\PIDeffine.exe
+C:\Users\algagu01\Desktop\PIDeffine\bin\Debug\PIDeffine.pdb
+C:\Users\algagu01\Desktop\PIDeffine\obj\Debug\PIDeffine.exe
+C:\Users\algagu01\Desktop\PIDeffine\obj\Debug\PIDeffine.pdb
+C:\Users\algagu01\Desktop\PIDeffine\obj\Debug\PIDeffine.FrmRegistro.resources
+C:\Users\algagu01\Desktop\PIDeffine\obj\Debug\PIDeffine.FrmInicio.resources
+C:\Users\algagu01\Desktop\Version0.0.1PI\bin\Debug\PIDeffine.exe.config
+C:\Users\algagu01\Desktop\Version0.0.1PI\bin\Debug\PIDeffine.exe
+C:\Users\algagu01\Desktop\Version0.0.1PI\bin\Debug\PIDeffine.pdb
+C:\Users\algagu01\Desktop\Version0.0.1PI\obj\Debug\PIDeffine.FrmRegistro.resources
+C:\Users\algagu01\Desktop\Version0.0.1PI\obj\Debug\PIDeffine.Properties.Resources.resources
+C:\Users\algagu01\Desktop\Version0.0.1PI\obj\Debug\PIDeffine.csproj.GenerateResource.cache
+C:\Users\algagu01\Desktop\Version0.0.1PI\obj\Debug\PIDeffine.csproj.CoreCompileInputs.cache
+C:\Users\algagu01\Desktop\Version0.0.1PI\obj\Debug\PIDeffine.exe
+C:\Users\algagu01\Desktop\Version0.0.1PI\obj\Debug\PIDeffine.pdb
+C:\Users\algagu01\Desktop\Version0.0.1PI\obj\Debug\PIDeffine.PanelDeControl.resources
+C:\Users\algagu01\Desktop\Version0.0.1PI\obj\Debug\PIDeffine.csproj.AssemblyReference.cache
+C:\Users\algagu01\Desktop\Version0.0.1PI\obj\Debug\PIDeffine.FrmTienda.resources
+C:\Users\algagu01\Desktop\Version0.0.1PI\obj\Debug\PIDeffine.FrmInicio.resources
+C:\Users\algagu01\Desktop\Proyecto Integrado\DeffinePI\PIDeffine\bin\Debug\PIDeffine.exe.config
+C:\Users\algagu01\Desktop\Proyecto Integrado\DeffinePI\PIDeffine\bin\Debug\PIDeffine.exe
+C:\Users\algagu01\Desktop\Proyecto Integrado\DeffinePI\PIDeffine\bin\Debug\PIDeffine.pdb
+C:\Users\algagu01\Desktop\Proyecto Integrado\DeffinePI\PIDeffine\obj\Debug\PIDeffine.FrmTienda.resources
+C:\Users\algagu01\Desktop\Proyecto Integrado\DeffinePI\PIDeffine\obj\Debug\PIDeffine.FrmRegistro.resources
+C:\Users\algagu01\Desktop\Proyecto Integrado\DeffinePI\PIDeffine\obj\Debug\PIDeffine.FrmInicio.resources
+C:\Users\algagu01\Desktop\Proyecto Integrado\DeffinePI\PIDeffine\obj\Debug\PIDeffine.Properties.Resources.resources
+C:\Users\algagu01\Desktop\Proyecto Integrado\DeffinePI\PIDeffine\obj\Debug\PIDeffine.csproj.GenerateResource.cache
+C:\Users\algagu01\Desktop\Proyecto Integrado\DeffinePI\PIDeffine\obj\Debug\PIDeffine.csproj.CoreCompileInputs.cache
+C:\Users\algagu01\Desktop\Proyecto Integrado\DeffinePI\PIDeffine\obj\Debug\PIDeffine.exe
+C:\Users\algagu01\Desktop\Proyecto Integrado\DeffinePI\PIDeffine\obj\Debug\PIDeffine.pdb
+C:\Users\algagu01\Desktop\Proyecto Integrado\DeffinePI\PIDeffine\obj\Debug\PIDeffine.FrmPedido.resources
+C:\Users\algagu01\Desktop\Proyecto Integrado\DeffinePI\PIDeffine\obj\Debug\PIDeffine.csproj.AssemblyReference.cache
+C:\Users\algagu01\Desktop\Proyecto Integrado\DeffinePI\PIDeffine\obj\Debug\PIDeffine.FrmDisenyo.resources
+C:\Users\alhupe\Desktop\Proyecto Integrado\DeffinePI\PIDEFFINE-COPIA\obj\Debug\PIDeffine.csproj.AssemblyReference.cache
+C:\Users\alhupe\Desktop\Proyecto Integrado\DeffinePI\PIDEFFINE-COPIA\obj\Debug\PIDeffine.csproj.SuggestedBindingRedirects.cache
+C:\Users\alhupe\Desktop\Proyecto Integrado\DeffinePI\PIDEFFINE-COPIA\obj\Debug\PIDeffine.FrmDisenyo.resources
+C:\Users\alhupe\Desktop\Proyecto Integrado\DeffinePI\PIDEFFINE-COPIA\obj\Debug\PIDeffine.FrmPedido.resources
+C:\Users\alhupe\Desktop\Proyecto Integrado\DeffinePI\PIDEFFINE-COPIA\obj\Debug\PIDeffine.FrmRegistro.resources
+C:\Users\alhupe\Desktop\Proyecto Integrado\DeffinePI\PIDEFFINE-COPIA\obj\Debug\PIDeffine.FrmTienda.resources
+C:\Users\alhupe\Desktop\Proyecto Integrado\DeffinePI\PIDEFFINE-COPIA\obj\Debug\PIDeffine.FrmInicio.resources
+C:\Users\alhupe\Desktop\Proyecto Integrado\DeffinePI\PIDEFFINE-COPIA\obj\Debug\PIDeffine.Properties.Resources.resources
+C:\Users\alhupe\Desktop\Proyecto Integrado\DeffinePI\PIDEFFINE-COPIA\obj\Debug\PIDeffine.csproj.GenerateResource.cache
+C:\Users\alhupe\Desktop\Proyecto Integrado\DeffinePI\PIDEFFINE-COPIA\obj\Debug\PIDeffine.csproj.CoreCompileInputs.cache
+C:\Users\alhupe\Desktop\Proyecto Integrado\DeffinePI\PIDEFFINE-COPIA\obj\Debug\PIDeffine.exe
+C:\Users\alhupe\Desktop\Proyecto Integrado\DeffinePI\PIDEFFINE-COPIA\obj\Debug\PIDeffine.pdb
+C:\Users\alhupe\Desktop\Proyecto Integrado\DeffinePI\PIDEFFINE-COPIA\bin\Debug\PIDeffine.exe.config
+C:\Users\alhupe\Desktop\Proyecto Integrado\DeffinePI\PIDEFFINE-COPIA\bin\Debug\PIDeffine.exe
+C:\Users\alhupe\Desktop\Proyecto Integrado\DeffinePI\PIDEFFINE-COPIA\bin\Debug\PIDeffine.pdb
+C:\Users\alhupe\Desktop\Proyecto Integrado\DeffinePI\PIDEFFINE-COPIA\bin\Debug\MySqlConnector.dll
+C:\Users\alhupe\Desktop\Proyecto Integrado\DeffinePI\PIDEFFINE-COPIA\bin\Debug\System.Buffers.dll
+C:\Users\alhupe\Desktop\Proyecto Integrado\DeffinePI\PIDEFFINE-COPIA\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\alhupe\Desktop\Proyecto Integrado\DeffinePI\PIDEFFINE-COPIA\bin\Debug\System.Memory.dll
+C:\Users\alhupe\Desktop\Proyecto Integrado\DeffinePI\PIDEFFINE-COPIA\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\alhupe\Desktop\Proyecto Integrado\DeffinePI\PIDEFFINE-COPIA\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\alhupe\Desktop\Proyecto Integrado\DeffinePI\PIDEFFINE-COPIA\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\alhupe\Desktop\Proyecto Integrado\DeffinePI\PIDEFFINE-COPIA\bin\Debug\MySqlConnector.xml
+C:\Users\alhupe\Desktop\Proyecto Integrado\DeffinePI\PIDEFFINE-COPIA\bin\Debug\System.Buffers.xml
+C:\Users\alhupe\Desktop\Proyecto Integrado\DeffinePI\PIDEFFINE-COPIA\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\alhupe\Desktop\Proyecto Integrado\DeffinePI\PIDEFFINE-COPIA\bin\Debug\System.Memory.xml
+C:\Users\alhupe\Desktop\Proyecto Integrado\DeffinePI\PIDEFFINE-COPIA\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\alhupe\Desktop\Proyecto Integrado\DeffinePI\PIDEFFINE-COPIA\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\alhupe\Desktop\Proyecto Integrado\DeffinePI\PIDEFFINE-COPIA\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\alhupe\Desktop\Proyecto Integrado\DeffinePI\PIDEFFINE-COPIA\obj\Debug\PIDeffine.csproj.CopyComplete
+C:\Users\alhupe\Desktop\Proyecto Integrado\DeffinePI\PIDeffine\bin\Debug\PIDeffine.exe.config
+C:\Users\alhupe\Desktop\Proyecto Integrado\DeffinePI\PIDeffine\bin\Debug\PIDeffine.exe
+C:\Users\alhupe\Desktop\Proyecto Integrado\DeffinePI\PIDeffine\bin\Debug\PIDeffine.pdb
+C:\Users\alhupe\Desktop\Proyecto Integrado\DeffinePI\PIDeffine\bin\Debug\MySqlConnector.dll
+C:\Users\alhupe\Desktop\Proyecto Integrado\DeffinePI\PIDeffine\bin\Debug\System.Buffers.dll
+C:\Users\alhupe\Desktop\Proyecto Integrado\DeffinePI\PIDeffine\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\alhupe\Desktop\Proyecto Integrado\DeffinePI\PIDeffine\bin\Debug\System.Memory.dll
+C:\Users\alhupe\Desktop\Proyecto Integrado\DeffinePI\PIDeffine\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\alhupe\Desktop\Proyecto Integrado\DeffinePI\PIDeffine\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\alhupe\Desktop\Proyecto Integrado\DeffinePI\PIDeffine\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\alhupe\Desktop\Proyecto Integrado\DeffinePI\PIDeffine\bin\Debug\MySqlConnector.xml
+C:\Users\alhupe\Desktop\Proyecto Integrado\DeffinePI\PIDeffine\bin\Debug\System.Buffers.xml
+C:\Users\alhupe\Desktop\Proyecto Integrado\DeffinePI\PIDeffine\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\alhupe\Desktop\Proyecto Integrado\DeffinePI\PIDeffine\bin\Debug\System.Memory.xml
+C:\Users\alhupe\Desktop\Proyecto Integrado\DeffinePI\PIDeffine\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\alhupe\Desktop\Proyecto Integrado\DeffinePI\PIDeffine\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\alhupe\Desktop\Proyecto Integrado\DeffinePI\PIDeffine\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\alhupe\Desktop\Proyecto Integrado\DeffinePI\PIDeffine\obj\Debug\PIDeffine.csproj.AssemblyReference.cache
+C:\Users\alhupe\Desktop\Proyecto Integrado\DeffinePI\PIDeffine\obj\Debug\PIDeffine.csproj.SuggestedBindingRedirects.cache
+C:\Users\alhupe\Desktop\Proyecto Integrado\DeffinePI\PIDeffine\obj\Debug\PIDeffine.g.resources
+C:\Users\alhupe\Desktop\Proyecto Integrado\DeffinePI\PIDeffine\obj\Debug\PIDeffine.FrmDisenyo.resources
+C:\Users\alhupe\Desktop\Proyecto Integrado\DeffinePI\PIDeffine\obj\Debug\PIDeffine.FrmPedido.resources
+C:\Users\alhupe\Desktop\Proyecto Integrado\DeffinePI\PIDeffine\obj\Debug\PIDeffine.FrmRegistro.resources
+C:\Users\alhupe\Desktop\Proyecto Integrado\DeffinePI\PIDeffine\obj\Debug\PIDeffine.FrmTienda.resources
+C:\Users\alhupe\Desktop\Proyecto Integrado\DeffinePI\PIDeffine\obj\Debug\PIDeffine.FrmInicio.resources
+C:\Users\alhupe\Desktop\Proyecto Integrado\DeffinePI\PIDeffine\obj\Debug\PIDeffine.Properties.Resources.resources
+C:\Users\alhupe\Desktop\Proyecto Integrado\DeffinePI\PIDeffine\obj\Debug\PIDeffine.csproj.GenerateResource.cache
+C:\Users\alhupe\Desktop\Proyecto Integrado\DeffinePI\PIDeffine\obj\Debug\PIDeffine.csproj.CoreCompileInputs.cache
+C:\Users\alhupe\Desktop\Proyecto Integrado\DeffinePI\PIDeffine\obj\Debug\PIDeffine.csproj.CopyComplete
+C:\Users\alhupe\Desktop\Proyecto Integrado\DeffinePI\PIDeffine\obj\Debug\PIDeffine.exe
+C:\Users\alhupe\Desktop\Proyecto Integrado\DeffinePI\PIDeffine\obj\Debug\PIDeffine.pdb
+C:\Users\serore\Desktop\Proyecto integrado\DeffinePI\PIDeffine\obj\Debug\PIDeffine.csproj.AssemblyReference.cache
+C:\Users\serore\Desktop\Proyecto integrado\DeffinePI\PIDeffine\obj\Debug\PIDeffine.g.resources
+C:\Users\serore\Desktop\Proyecto integrado\DeffinePI\PIDeffine\obj\Debug\PIDeffine.FrmDisenyo.resources
+C:\Users\serore\Desktop\Proyecto integrado\DeffinePI\PIDeffine\obj\Debug\PIDeffine.FrmPedido.resources
+C:\Users\serore\Desktop\Proyecto integrado\DeffinePI\PIDeffine\obj\Debug\PIDeffine.FrmRegistro.resources
+C:\Users\serore\Desktop\Proyecto integrado\DeffinePI\PIDeffine\obj\Debug\PIDeffine.FrmTienda.resources
+C:\Users\serore\Desktop\Proyecto integrado\DeffinePI\PIDeffine\obj\Debug\PIDeffine.FrmInicio.resources
+C:\Users\serore\Desktop\Proyecto integrado\DeffinePI\PIDeffine\obj\Debug\PIDeffine.Properties.Resources.resources
+C:\Users\serore\Desktop\Proyecto integrado\DeffinePI\PIDeffine\obj\Debug\PIDeffine.csproj.GenerateResource.cache
+C:\Users\serore\Desktop\Proyecto integrado\DeffinePI\PIDeffine\obj\Debug\PIDeffine.csproj.CoreCompileInputs.cache
+C:\Users\serore\Desktop\Proyecto integrado\DeffinePI\PIDeffine\obj\Debug\PIDeffine.exe
+C:\Users\serore\Desktop\Proyecto integrado\DeffinePI\PIDeffine\obj\Debug\PIDeffine.pdb
+C:\Users\serore\Desktop\Proyecto integrado\DeffinePI\PIDeffine\bin\Debug\PIDeffine.exe.config
+C:\Users\serore\Desktop\Proyecto integrado\DeffinePI\PIDeffine\bin\Debug\PIDeffine.exe
+C:\Users\serore\Desktop\Proyecto integrado\DeffinePI\PIDeffine\bin\Debug\PIDeffine.pdb
+C:\Users\serore\Desktop\Proyecto integrado\DeffinePI\PIDeffine\bin\Debug\EN-GB\PIDeffine.resources.dll
+C:\Users\serore\Desktop\Proyecto integrado\DeffinePI\PIDeffine\bin\Debug\MySqlConnector.dll
+C:\Users\serore\Desktop\Proyecto integrado\DeffinePI\PIDeffine\bin\Debug\System.Buffers.dll
+C:\Users\serore\Desktop\Proyecto integrado\DeffinePI\PIDeffine\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\serore\Desktop\Proyecto integrado\DeffinePI\PIDeffine\bin\Debug\System.Memory.dll
+C:\Users\serore\Desktop\Proyecto integrado\DeffinePI\PIDeffine\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\serore\Desktop\Proyecto integrado\DeffinePI\PIDeffine\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\serore\Desktop\Proyecto integrado\DeffinePI\PIDeffine\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\serore\Desktop\Proyecto integrado\DeffinePI\PIDeffine\bin\Debug\MySqlConnector.xml
+C:\Users\serore\Desktop\Proyecto integrado\DeffinePI\PIDeffine\bin\Debug\System.Buffers.xml
+C:\Users\serore\Desktop\Proyecto integrado\DeffinePI\PIDeffine\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\serore\Desktop\Proyecto integrado\DeffinePI\PIDeffine\bin\Debug\System.Memory.xml
+C:\Users\serore\Desktop\Proyecto integrado\DeffinePI\PIDeffine\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\serore\Desktop\Proyecto integrado\DeffinePI\PIDeffine\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\serore\Desktop\Proyecto integrado\DeffinePI\PIDeffine\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\serore\Desktop\Proyecto integrado\DeffinePI\PIDeffine\obj\Debug\EN-GB\PIDeffine.resources.dll
+C:\Users\serore\Desktop\Proyecto integrado\DeffinePI\PIDeffine\obj\Debug\PIDeffine.csproj.CopyComplete
+C:\Users\serore\Desktop\Proyecto integrado\DeffinePI\PIDeffine\obj\Debug\PIDeffine.RecursosLocalizables.StringRecursos.resources
+C:\Users\serore\Desktop\Proyecto integrado\DeffinePI\PIDeffine\obj\Debug\PIDeffine.RecursosLocalizables.StringRecursos.EN-GB.resources
+C:\Users\algagu01\Desktop\Proyecto Integrado\DeffinePI\PIDeffine\bin\Debug\EN-GB\PIDeffine.resources.dll
+C:\Users\algagu01\Desktop\Proyecto Integrado\DeffinePI\PIDeffine\bin\Debug\MySqlConnector.dll
+C:\Users\algagu01\Desktop\Proyecto Integrado\DeffinePI\PIDeffine\bin\Debug\System.Buffers.dll
+C:\Users\algagu01\Desktop\Proyecto Integrado\DeffinePI\PIDeffine\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\algagu01\Desktop\Proyecto Integrado\DeffinePI\PIDeffine\bin\Debug\System.Memory.dll
+C:\Users\algagu01\Desktop\Proyecto Integrado\DeffinePI\PIDeffine\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\algagu01\Desktop\Proyecto Integrado\DeffinePI\PIDeffine\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\algagu01\Desktop\Proyecto Integrado\DeffinePI\PIDeffine\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\algagu01\Desktop\Proyecto Integrado\DeffinePI\PIDeffine\bin\Debug\MySqlConnector.xml
+C:\Users\algagu01\Desktop\Proyecto Integrado\DeffinePI\PIDeffine\bin\Debug\System.Buffers.xml
+C:\Users\algagu01\Desktop\Proyecto Integrado\DeffinePI\PIDeffine\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\algagu01\Desktop\Proyecto Integrado\DeffinePI\PIDeffine\bin\Debug\System.Memory.xml
+C:\Users\algagu01\Desktop\Proyecto Integrado\DeffinePI\PIDeffine\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\algagu01\Desktop\Proyecto Integrado\DeffinePI\PIDeffine\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\algagu01\Desktop\Proyecto Integrado\DeffinePI\PIDeffine\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\algagu01\Desktop\Proyecto Integrado\DeffinePI\PIDeffine\obj\Debug\PIDeffine.g.resources
+C:\Users\algagu01\Desktop\Proyecto Integrado\DeffinePI\PIDeffine\obj\Debug\PIDeffine.RecursosLocalizables.StringRecursos.resources
+C:\Users\algagu01\Desktop\Proyecto Integrado\DeffinePI\PIDeffine\obj\Debug\PIDeffine.RecursosLocalizables.StringRecursos.EN-GB.resources
+C:\Users\algagu01\Desktop\Proyecto Integrado\DeffinePI\PIDeffine\obj\Debug\EN-GB\PIDeffine.resources.dll
+C:\Users\algagu01\Desktop\Proyecto Integrado\DeffinePI\PIDeffine\obj\Debug\PIDeffine.csproj.CopyComplete
+C:\Users\algagu01\Desktop\DeffinePI\PIDeffine\obj\Debug\PIDeffine.csproj.AssemblyReference.cache
+C:\Users\algagu01\Desktop\DeffinePI\PIDeffine\obj\Debug\PIDeffine.g.resources
+C:\Users\algagu01\Desktop\DeffinePI\PIDeffine\obj\Debug\PIDeffine.FrmDisenyo.resources
+C:\Users\algagu01\Desktop\DeffinePI\PIDeffine\obj\Debug\PIDeffine.FrmPedido.resources
+C:\Users\algagu01\Desktop\DeffinePI\PIDeffine\obj\Debug\PIDeffine.FrmRegistro.resources
+C:\Users\algagu01\Desktop\DeffinePI\PIDeffine\obj\Debug\PIDeffine.FrmTienda.resources
+C:\Users\algagu01\Desktop\DeffinePI\PIDeffine\obj\Debug\PIDeffine.FrmInicio.resources
+C:\Users\algagu01\Desktop\DeffinePI\PIDeffine\obj\Debug\PIDeffine.Properties.Resources.resources
+C:\Users\algagu01\Desktop\DeffinePI\PIDeffine\obj\Debug\PIDeffine.RecursosLocalizables.StringRecursos.resources
+C:\Users\algagu01\Desktop\DeffinePI\PIDeffine\obj\Debug\PIDeffine.RecursosLocalizables.StringRecursos.EN-GB.resources
+C:\Users\algagu01\Desktop\DeffinePI\PIDeffine\obj\Debug\PIDeffine.csproj.GenerateResource.cache
+C:\Users\algagu01\Desktop\DeffinePI\PIDeffine\obj\Debug\PIDeffine.csproj.CoreCompileInputs.cache
+C:\Users\algagu01\Desktop\DeffinePI\PIDeffine\obj\Debug\PIDeffine.exe
+C:\Users\algagu01\Desktop\DeffinePI\PIDeffine\obj\Debug\PIDeffine.pdb
+C:\Users\algagu01\Desktop\DeffinePI\PIDeffine\bin\Debug\PIDeffine.exe.config
+C:\Users\algagu01\Desktop\DeffinePI\PIDeffine\bin\Debug\PIDeffine.exe
+C:\Users\algagu01\Desktop\DeffinePI\PIDeffine\bin\Debug\PIDeffine.pdb
+C:\Users\algagu01\Desktop\DeffinePI\PIDeffine\bin\Debug\EN-GB\PIDeffine.resources.dll
+C:\Users\algagu01\Desktop\DeffinePI\PIDeffine\bin\Debug\MySqlConnector.dll
+C:\Users\algagu01\Desktop\DeffinePI\PIDeffine\bin\Debug\System.Buffers.dll
+C:\Users\algagu01\Desktop\DeffinePI\PIDeffine\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\algagu01\Desktop\DeffinePI\PIDeffine\bin\Debug\System.Memory.dll
+C:\Users\algagu01\Desktop\DeffinePI\PIDeffine\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\algagu01\Desktop\DeffinePI\PIDeffine\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\algagu01\Desktop\DeffinePI\PIDeffine\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\algagu01\Desktop\DeffinePI\PIDeffine\bin\Debug\MySqlConnector.xml
+C:\Users\algagu01\Desktop\DeffinePI\PIDeffine\bin\Debug\System.Buffers.xml
+C:\Users\algagu01\Desktop\DeffinePI\PIDeffine\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\algagu01\Desktop\DeffinePI\PIDeffine\bin\Debug\System.Memory.xml
+C:\Users\algagu01\Desktop\DeffinePI\PIDeffine\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\algagu01\Desktop\DeffinePI\PIDeffine\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\algagu01\Desktop\DeffinePI\PIDeffine\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\algagu01\Desktop\DeffinePI\PIDeffine\obj\Debug\EN-GB\PIDeffine.resources.dll
+C:\Users\algagu01\Desktop\DeffinePI\PIDeffine\obj\Debug\PIDeffine.csproj.CopyComplete
+C:\Users\algagu01\Desktop\DeffinePI\PIDeffine\obj\Debug\PIDeffine.FrmAdmin.resources
+C:\Users\algagu01\Desktop\DeffinePI\PIDeffine\obj\Debug\PIDeffine.FrmCarrito.resources
+C:\Users\serore\Desktop\Proyecto integrado\DeffinePI\PIDeffine\obj\Debug\PIDeffine.FrmAdmin.resources
+C:\Users\serore\Desktop\Proyecto integrado\DeffinePI\PIDeffine\obj\Debug\PIDeffine.FrmCarrito.resources
+C:\Users\alhupe\Desktop\Deffine NUEVO\DeffinePI\PIDeffine\obj\Debug\PIDeffine.csproj.AssemblyReference.cache
+C:\Users\alhupe\Desktop\Deffine NUEVO\DeffinePI\PIDeffine\obj\Debug\PIDeffine.csproj.SuggestedBindingRedirects.cache
+C:\Users\alhupe\Desktop\Deffine NUEVO\DeffinePI\PIDeffine\obj\Debug\PIDeffine.g.resources
+C:\Users\alhupe\Desktop\Deffine NUEVO\DeffinePI\PIDeffine\obj\Debug\PIDeffine.FrmAdmin.resources
+C:\Users\alhupe\Desktop\Deffine NUEVO\DeffinePI\PIDeffine\obj\Debug\PIDeffine.FrmCarrito.resources
+C:\Users\alhupe\Desktop\Deffine NUEVO\DeffinePI\PIDeffine\obj\Debug\PIDeffine.FrmDisenyo.resources
+C:\Users\alhupe\Desktop\Deffine NUEVO\DeffinePI\PIDeffine\obj\Debug\PIDeffine.FrmPedido.resources
+C:\Users\alhupe\Desktop\Deffine NUEVO\DeffinePI\PIDeffine\obj\Debug\PIDeffine.FrmRegistro.resources
+C:\Users\alhupe\Desktop\Deffine NUEVO\DeffinePI\PIDeffine\obj\Debug\PIDeffine.FrmTienda.resources
+C:\Users\alhupe\Desktop\Deffine NUEVO\DeffinePI\PIDeffine\obj\Debug\PIDeffine.FrmInicio.resources
+C:\Users\alhupe\Desktop\Deffine NUEVO\DeffinePI\PIDeffine\obj\Debug\PIDeffine.Properties.Resources.resources
+C:\Users\alhupe\Desktop\Deffine NUEVO\DeffinePI\PIDeffine\obj\Debug\PIDeffine.RecursosLocalizables.StringRecursos.resources
+C:\Users\alhupe\Desktop\Deffine NUEVO\DeffinePI\PIDeffine\obj\Debug\PIDeffine.RecursosLocalizables.StringRecursos.EN-GB.resources
+C:\Users\alhupe\Desktop\Deffine NUEVO\DeffinePI\PIDeffine\obj\Debug\PIDeffine.csproj.GenerateResource.cache
+C:\Users\alhupe\Desktop\Deffine NUEVO\DeffinePI\PIDeffine\obj\Debug\PIDeffine.csproj.CoreCompileInputs.cache
+C:\Users\alhupe\Desktop\Deffine NUEVO\DeffinePI\PIDeffine\obj\Debug\PIDeffine.exe
+C:\Users\alhupe\Desktop\Deffine NUEVO\DeffinePI\PIDeffine\obj\Debug\PIDeffine.pdb
+C:\Users\alhupe\Desktop\Deffine NUEVO\DeffinePI\PIDeffine\bin\Debug\PIDeffine.exe.config
+C:\Users\alhupe\Desktop\Deffine NUEVO\DeffinePI\PIDeffine\bin\Debug\PIDeffine.exe
+C:\Users\alhupe\Desktop\Deffine NUEVO\DeffinePI\PIDeffine\bin\Debug\PIDeffine.pdb
+C:\Users\alhupe\Desktop\Deffine NUEVO\DeffinePI\PIDeffine\bin\Debug\EN-GB\PIDeffine.resources.dll
+C:\Users\alhupe\Desktop\Deffine NUEVO\DeffinePI\PIDeffine\bin\Debug\MySqlConnector.dll
+C:\Users\alhupe\Desktop\Deffine NUEVO\DeffinePI\PIDeffine\bin\Debug\System.Buffers.dll
+C:\Users\alhupe\Desktop\Deffine NUEVO\DeffinePI\PIDeffine\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\alhupe\Desktop\Deffine NUEVO\DeffinePI\PIDeffine\bin\Debug\System.Memory.dll
+C:\Users\alhupe\Desktop\Deffine NUEVO\DeffinePI\PIDeffine\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\alhupe\Desktop\Deffine NUEVO\DeffinePI\PIDeffine\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\alhupe\Desktop\Deffine NUEVO\DeffinePI\PIDeffine\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\alhupe\Desktop\Deffine NUEVO\DeffinePI\PIDeffine\bin\Debug\MySqlConnector.xml
+C:\Users\alhupe\Desktop\Deffine NUEVO\DeffinePI\PIDeffine\bin\Debug\System.Buffers.xml
+C:\Users\alhupe\Desktop\Deffine NUEVO\DeffinePI\PIDeffine\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\alhupe\Desktop\Deffine NUEVO\DeffinePI\PIDeffine\bin\Debug\System.Memory.xml
+C:\Users\alhupe\Desktop\Deffine NUEVO\DeffinePI\PIDeffine\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\alhupe\Desktop\Deffine NUEVO\DeffinePI\PIDeffine\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\alhupe\Desktop\Deffine NUEVO\DeffinePI\PIDeffine\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\alhupe\Desktop\Deffine NUEVO\DeffinePI\PIDeffine\obj\Debug\EN-GB\PIDeffine.resources.dll
+C:\Users\alhupe\Desktop\Deffine NUEVO\DeffinePI\PIDeffine\obj\Debug\PIDeffine.csproj.CopyComplete
+C:\Users\algagu01\Desktop\DeffinePI\PIDeffine\obj\Debug\PIDeffine.FrmGuiaDeTallas.resources
+C:\Users\alhupe\Desktop\Deffine NUEVO\DeffinePI\PIDeffine\obj\Debug\PIDeffine.FrmGuiaDeTallas.resources
+C:\Users\algagu01\Desktop\DeffinePI - copia de seguridad buena\PIDeffine\bin\Debug\PIDeffine.exe.config
+C:\Users\algagu01\Desktop\DeffinePI - copia de seguridad buena\PIDeffine\bin\Debug\PIDeffine.exe
+C:\Users\algagu01\Desktop\DeffinePI - copia de seguridad buena\PIDeffine\bin\Debug\PIDeffine.pdb
+C:\Users\algagu01\Desktop\DeffinePI - copia de seguridad buena\PIDeffine\bin\Debug\EN-GB\PIDeffine.resources.dll
+C:\Users\algagu01\Desktop\DeffinePI - copia de seguridad buena\PIDeffine\bin\Debug\MySqlConnector.dll
+C:\Users\algagu01\Desktop\DeffinePI - copia de seguridad buena\PIDeffine\bin\Debug\System.Buffers.dll
+C:\Users\algagu01\Desktop\DeffinePI - copia de seguridad buena\PIDeffine\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\algagu01\Desktop\DeffinePI - copia de seguridad buena\PIDeffine\bin\Debug\System.Memory.dll
+C:\Users\algagu01\Desktop\DeffinePI - copia de seguridad buena\PIDeffine\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\algagu01\Desktop\DeffinePI - copia de seguridad buena\PIDeffine\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\algagu01\Desktop\DeffinePI - copia de seguridad buena\PIDeffine\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\algagu01\Desktop\DeffinePI - copia de seguridad buena\PIDeffine\bin\Debug\MySqlConnector.xml
+C:\Users\algagu01\Desktop\DeffinePI - copia de seguridad buena\PIDeffine\bin\Debug\System.Buffers.xml
+C:\Users\algagu01\Desktop\DeffinePI - copia de seguridad buena\PIDeffine\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\algagu01\Desktop\DeffinePI - copia de seguridad buena\PIDeffine\bin\Debug\System.Memory.xml
+C:\Users\algagu01\Desktop\DeffinePI - copia de seguridad buena\PIDeffine\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\algagu01\Desktop\DeffinePI - copia de seguridad buena\PIDeffine\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\algagu01\Desktop\DeffinePI - copia de seguridad buena\PIDeffine\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\algagu01\Desktop\DeffinePI - copia de seguridad buena\PIDeffine\obj\Debug\PIDeffine.csproj.AssemblyReference.cache
+C:\Users\algagu01\Desktop\DeffinePI - copia de seguridad buena\PIDeffine\obj\Debug\PIDeffine.g.resources
+C:\Users\algagu01\Desktop\DeffinePI - copia de seguridad buena\PIDeffine\obj\Debug\PIDeffine.FrmAdmin.resources
+C:\Users\algagu01\Desktop\DeffinePI - copia de seguridad buena\PIDeffine\obj\Debug\PIDeffine.FrmCarrito.resources
+C:\Users\algagu01\Desktop\DeffinePI - copia de seguridad buena\PIDeffine\obj\Debug\PIDeffine.FrmCorreoAyuda.resources
+C:\Users\algagu01\Desktop\DeffinePI - copia de seguridad buena\PIDeffine\obj\Debug\PIDeffine.FrmDisenyo.resources
+C:\Users\algagu01\Desktop\DeffinePI - copia de seguridad buena\PIDeffine\obj\Debug\PIDeffine.FrmGuiaDeTallas.resources
+C:\Users\algagu01\Desktop\DeffinePI - copia de seguridad buena\PIDeffine\obj\Debug\PIDeffine.FrmPedido.resources
+C:\Users\algagu01\Desktop\DeffinePI - copia de seguridad buena\PIDeffine\obj\Debug\PIDeffine.FrmRegistro.resources
+C:\Users\algagu01\Desktop\DeffinePI - copia de seguridad buena\PIDeffine\obj\Debug\PIDeffine.FrmTienda.resources
+C:\Users\algagu01\Desktop\DeffinePI - copia de seguridad buena\PIDeffine\obj\Debug\PIDeffine.FrmInicio.resources
+C:\Users\algagu01\Desktop\DeffinePI - copia de seguridad buena\PIDeffine\obj\Debug\PIDeffine.Properties.Resources.resources
+C:\Users\algagu01\Desktop\DeffinePI - copia de seguridad buena\PIDeffine\obj\Debug\PIDeffine.RecursosLocalizables.StringRecursos.resources
+C:\Users\algagu01\Desktop\DeffinePI - copia de seguridad buena\PIDeffine\obj\Debug\PIDeffine.RecursosLocalizables.StringRecursos.EN-GB.resources
+C:\Users\algagu01\Desktop\DeffinePI - copia de seguridad buena\PIDeffine\obj\Debug\PIDeffine.csproj.GenerateResource.cache
+C:\Users\algagu01\Desktop\DeffinePI - copia de seguridad buena\PIDeffine\obj\Debug\PIDeffine.csproj.CoreCompileInputs.cache
+C:\Users\algagu01\Desktop\DeffinePI - copia de seguridad buena\PIDeffine\obj\Debug\EN-GB\PIDeffine.resources.dll
+C:\Users\algagu01\Desktop\DeffinePI - copia de seguridad buena\PIDeffine\obj\Debug\PIDeffine.csproj.CopyComplete
+C:\Users\algagu01\Desktop\DeffinePI - copia de seguridad buena\PIDeffine\obj\Debug\PIDeffine.exe
+C:\Users\algagu01\Desktop\DeffinePI - copia de seguridad buena\PIDeffine\obj\Debug\PIDeffine.pdb
+C:\Users\alhupe\Desktop\Deffine NUEVO\DeffinePI\PIDeffine\obj\Debug\PIDeffine.FrmCorreoAyuda.resources
+C:\Users\tochmo\Source\Repos\DeffinePI\PIDeffine\bin\Debug\PIDeffine.exe.config
+C:\Users\tochmo\Source\Repos\DeffinePI\PIDeffine\bin\Debug\PIDeffine.exe
+C:\Users\tochmo\Source\Repos\DeffinePI\PIDeffine\bin\Debug\PIDeffine.pdb
+C:\Users\tochmo\Source\Repos\DeffinePI\PIDeffine\bin\Debug\EN-GB\PIDeffine.resources.dll
+C:\Users\tochmo\Source\Repos\DeffinePI\PIDeffine\bin\Debug\MySqlConnector.dll
+C:\Users\tochmo\Source\Repos\DeffinePI\PIDeffine\bin\Debug\System.Buffers.dll
+C:\Users\tochmo\Source\Repos\DeffinePI\PIDeffine\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tochmo\Source\Repos\DeffinePI\PIDeffine\bin\Debug\System.Memory.dll
+C:\Users\tochmo\Source\Repos\DeffinePI\PIDeffine\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\tochmo\Source\Repos\DeffinePI\PIDeffine\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\tochmo\Source\Repos\DeffinePI\PIDeffine\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\tochmo\Source\Repos\DeffinePI\PIDeffine\bin\Debug\MySqlConnector.xml
+C:\Users\tochmo\Source\Repos\DeffinePI\PIDeffine\bin\Debug\System.Buffers.xml
+C:\Users\tochmo\Source\Repos\DeffinePI\PIDeffine\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\tochmo\Source\Repos\DeffinePI\PIDeffine\bin\Debug\System.Memory.xml
+C:\Users\tochmo\Source\Repos\DeffinePI\PIDeffine\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\tochmo\Source\Repos\DeffinePI\PIDeffine\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\tochmo\Source\Repos\DeffinePI\PIDeffine\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\tochmo\Source\Repos\DeffinePI\PIDeffine\obj\Debug\PIDeffine.csproj.AssemblyReference.cache
+C:\Users\tochmo\Source\Repos\DeffinePI\PIDeffine\obj\Debug\PIDeffine.g.resources
+C:\Users\tochmo\Source\Repos\DeffinePI\PIDeffine\obj\Debug\PIDeffine.FrmAdmin.resources
+C:\Users\tochmo\Source\Repos\DeffinePI\PIDeffine\obj\Debug\PIDeffine.FrmCarrito.resources
+C:\Users\tochmo\Source\Repos\DeffinePI\PIDeffine\obj\Debug\PIDeffine.FrmCorreoAyuda.resources
+C:\Users\tochmo\Source\Repos\DeffinePI\PIDeffine\obj\Debug\PIDeffine.FrmDisenyo.resources
+C:\Users\tochmo\Source\Repos\DeffinePI\PIDeffine\obj\Debug\PIDeffine.FrmGuiaDeTallas.resources
+C:\Users\tochmo\Source\Repos\DeffinePI\PIDeffine\obj\Debug\PIDeffine.FrmPedido.resources
+C:\Users\tochmo\Source\Repos\DeffinePI\PIDeffine\obj\Debug\PIDeffine.FrmRegistro.resources
+C:\Users\tochmo\Source\Repos\DeffinePI\PIDeffine\obj\Debug\PIDeffine.FrmTienda.resources
+C:\Users\tochmo\Source\Repos\DeffinePI\PIDeffine\obj\Debug\PIDeffine.FrmInicio.resources
+C:\Users\tochmo\Source\Repos\DeffinePI\PIDeffine\obj\Debug\PIDeffine.Properties.Resources.resources
+C:\Users\tochmo\Source\Repos\DeffinePI\PIDeffine\obj\Debug\PIDeffine.RecursosLocalizables.StringRecursos.resources
+C:\Users\tochmo\Source\Repos\DeffinePI\PIDeffine\obj\Debug\PIDeffine.RecursosLocalizables.StringRecursos.EN-GB.resources
+C:\Users\tochmo\Source\Repos\DeffinePI\PIDeffine\obj\Debug\PIDeffine.csproj.GenerateResource.cache
+C:\Users\tochmo\Source\Repos\DeffinePI\PIDeffine\obj\Debug\PIDeffine.csproj.CoreCompileInputs.cache
+C:\Users\tochmo\Source\Repos\DeffinePI\PIDeffine\obj\Debug\EN-GB\PIDeffine.resources.dll
+C:\Users\tochmo\Source\Repos\DeffinePI\PIDeffine\obj\Debug\PIDeffine.csproj.CopyComplete
+C:\Users\tochmo\Source\Repos\DeffinePI\PIDeffine\obj\Debug\PIDeffine.exe
+C:\Users\tochmo\Source\Repos\DeffinePI\PIDeffine\obj\Debug\PIDeffine.pdb
+C:\Users\carlo\Desktop\DeffinePI-src\PIDeffine\obj\Debug\PIDeffine.csproj.AssemblyReference.cache
+C:\Users\carlo\Desktop\DeffinePI-src\PIDeffine\obj\Debug\PIDeffine.csproj.SuggestedBindingRedirects.cache
+C:\Users\carlo\Desktop\DeffinePI-src\PIDeffine\obj\Debug\PIDeffine.g.resources
+C:\Users\carlo\Desktop\DeffinePI-src\PIDeffine\obj\Debug\PIDeffine.FrmAdmin.resources
+C:\Users\carlo\Desktop\DeffinePI-src\PIDeffine\obj\Debug\PIDeffine.FrmCarrito.resources
+C:\Users\carlo\Desktop\DeffinePI-src\PIDeffine\obj\Debug\PIDeffine.FrmCorreoAyuda.resources
+C:\Users\carlo\Desktop\DeffinePI-src\PIDeffine\obj\Debug\PIDeffine.FrmDisenyo.resources
+C:\Users\carlo\Desktop\DeffinePI-src\PIDeffine\obj\Debug\PIDeffine.FrmGuiaDeTallas.resources
+C:\Users\carlo\Desktop\DeffinePI-src\PIDeffine\obj\Debug\PIDeffine.FrmPedido.resources
+C:\Users\carlo\Desktop\DeffinePI-src\PIDeffine\obj\Debug\PIDeffine.FrmRegistro.resources
+C:\Users\carlo\Desktop\DeffinePI-src\PIDeffine\obj\Debug\PIDeffine.FrmTienda.resources
+C:\Users\carlo\Desktop\DeffinePI-src\PIDeffine\obj\Debug\PIDeffine.FrmInicio.resources
+C:\Users\carlo\Desktop\DeffinePI-src\PIDeffine\obj\Debug\PIDeffine.Properties.Resources.resources
+C:\Users\carlo\Desktop\DeffinePI-src\PIDeffine\obj\Debug\PIDeffine.RecursosLocalizables.StringRecursos.resources
+C:\Users\carlo\Desktop\DeffinePI-src\PIDeffine\obj\Debug\PIDeffine.RecursosLocalizables.StringRecursos.EN-GB.resources
+C:\Users\carlo\Desktop\DeffinePI-src\PIDeffine\obj\Debug\PIDeffine.csproj.GenerateResource.cache
+C:\Users\carlo\Desktop\DeffinePI-src\PIDeffine\obj\Debug\PIDeffine.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\DeffinePI-src\PIDeffine\obj\Debug\PIDeffine.exe
+C:\Users\carlo\Desktop\DeffinePI-src\PIDeffine\obj\Debug\PIDeffine.pdb
+C:\Users\carlo\Desktop\DeffinePI-src\PIDeffine\bin\Debug\PIDeffine.exe.config
+C:\Users\carlo\Desktop\DeffinePI-src\PIDeffine\bin\Debug\PIDeffine.exe
+C:\Users\carlo\Desktop\DeffinePI-src\PIDeffine\bin\Debug\PIDeffine.pdb
+C:\Users\carlo\Desktop\DeffinePI-src\PIDeffine\bin\Debug\EN-GB\PIDeffine.resources.dll
+C:\Users\carlo\Desktop\DeffinePI-src\PIDeffine\bin\Debug\MySqlConnector.dll
+C:\Users\carlo\Desktop\DeffinePI-src\PIDeffine\bin\Debug\System.Buffers.dll
+C:\Users\carlo\Desktop\DeffinePI-src\PIDeffine\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\carlo\Desktop\DeffinePI-src\PIDeffine\bin\Debug\System.Memory.dll
+C:\Users\carlo\Desktop\DeffinePI-src\PIDeffine\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\carlo\Desktop\DeffinePI-src\PIDeffine\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\carlo\Desktop\DeffinePI-src\PIDeffine\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\carlo\Desktop\DeffinePI-src\PIDeffine\bin\Debug\MySqlConnector.xml
+C:\Users\carlo\Desktop\DeffinePI-src\PIDeffine\bin\Debug\System.Buffers.xml
+C:\Users\carlo\Desktop\DeffinePI-src\PIDeffine\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\carlo\Desktop\DeffinePI-src\PIDeffine\bin\Debug\System.Memory.xml
+C:\Users\carlo\Desktop\DeffinePI-src\PIDeffine\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\carlo\Desktop\DeffinePI-src\PIDeffine\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\carlo\Desktop\DeffinePI-src\PIDeffine\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\carlo\Desktop\DeffinePI-src\PIDeffine\obj\Debug\EN-GB\PIDeffine.resources.dll
+C:\Users\carlo\Desktop\DeffinePI-src\PIDeffine\obj\Debug\PIDeffine.csproj.CopyComplete
+C:\Users\Carlos\Desktop\PI\DeffinePI\PIDeffine\bin\Debug\PIDeffine.exe.config
+C:\Users\Carlos\Desktop\PI\DeffinePI\PIDeffine\bin\Debug\PIDeffine.exe
+C:\Users\Carlos\Desktop\PI\DeffinePI\PIDeffine\bin\Debug\PIDeffine.pdb
+C:\Users\Carlos\Desktop\PI\DeffinePI\PIDeffine\bin\Debug\EN-GB\PIDeffine.resources.dll
+C:\Users\Carlos\Desktop\PI\DeffinePI\PIDeffine\bin\Debug\MySqlConnector.dll
+C:\Users\Carlos\Desktop\PI\DeffinePI\PIDeffine\bin\Debug\System.Buffers.dll
+C:\Users\Carlos\Desktop\PI\DeffinePI\PIDeffine\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Carlos\Desktop\PI\DeffinePI\PIDeffine\bin\Debug\System.Memory.dll
+C:\Users\Carlos\Desktop\PI\DeffinePI\PIDeffine\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Carlos\Desktop\PI\DeffinePI\PIDeffine\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Carlos\Desktop\PI\DeffinePI\PIDeffine\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Carlos\Desktop\PI\DeffinePI\PIDeffine\bin\Debug\MySqlConnector.xml
+C:\Users\Carlos\Desktop\PI\DeffinePI\PIDeffine\bin\Debug\System.Buffers.xml
+C:\Users\Carlos\Desktop\PI\DeffinePI\PIDeffine\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Carlos\Desktop\PI\DeffinePI\PIDeffine\bin\Debug\System.Memory.xml
+C:\Users\Carlos\Desktop\PI\DeffinePI\PIDeffine\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Carlos\Desktop\PI\DeffinePI\PIDeffine\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Carlos\Desktop\PI\DeffinePI\PIDeffine\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Carlos\Desktop\PI\DeffinePI\PIDeffine\obj\Debug\PIDeffine.csproj.AssemblyReference.cache
+C:\Users\Carlos\Desktop\PI\DeffinePI\PIDeffine\obj\Debug\PIDeffine.csproj.SuggestedBindingRedirects.cache
+C:\Users\Carlos\Desktop\PI\DeffinePI\PIDeffine\obj\Debug\PIDeffine.g.resources
+C:\Users\Carlos\Desktop\PI\DeffinePI\PIDeffine\obj\Debug\PIDeffine.FrmAdmin.resources
+C:\Users\Carlos\Desktop\PI\DeffinePI\PIDeffine\obj\Debug\PIDeffine.FrmCarrito.resources
+C:\Users\Carlos\Desktop\PI\DeffinePI\PIDeffine\obj\Debug\PIDeffine.FrmCorreoAyuda.resources
+C:\Users\Carlos\Desktop\PI\DeffinePI\PIDeffine\obj\Debug\PIDeffine.FrmDisenyo.resources
+C:\Users\Carlos\Desktop\PI\DeffinePI\PIDeffine\obj\Debug\PIDeffine.FrmGuiaDeTallas.resources
+C:\Users\Carlos\Desktop\PI\DeffinePI\PIDeffine\obj\Debug\PIDeffine.FrmPedido.resources
+C:\Users\Carlos\Desktop\PI\DeffinePI\PIDeffine\obj\Debug\PIDeffine.FrmRegistro.resources
+C:\Users\Carlos\Desktop\PI\DeffinePI\PIDeffine\obj\Debug\PIDeffine.FrmTienda.resources
+C:\Users\Carlos\Desktop\PI\DeffinePI\PIDeffine\obj\Debug\PIDeffine.FrmInicio.resources
+C:\Users\Carlos\Desktop\PI\DeffinePI\PIDeffine\obj\Debug\PIDeffine.Properties.Resources.resources
+C:\Users\Carlos\Desktop\PI\DeffinePI\PIDeffine\obj\Debug\PIDeffine.RecursosLocalizables.StringRecursos.resources
+C:\Users\Carlos\Desktop\PI\DeffinePI\PIDeffine\obj\Debug\PIDeffine.RecursosLocalizables.StringRecursos.EN-GB.resources
+C:\Users\Carlos\Desktop\PI\DeffinePI\PIDeffine\obj\Debug\PIDeffine.csproj.GenerateResource.cache
+C:\Users\Carlos\Desktop\PI\DeffinePI\PIDeffine\obj\Debug\PIDeffine.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Desktop\PI\DeffinePI\PIDeffine\obj\Debug\EN-GB\PIDeffine.resources.dll
+C:\Users\Carlos\Desktop\PI\DeffinePI\PIDeffine\obj\Debug\PIDeffine.csproj.CopyComplete
+C:\Users\Carlos\Desktop\PI\DeffinePI\PIDeffine\obj\Debug\PIDeffine.exe
+C:\Users\Carlos\Desktop\PI\DeffinePI\PIDeffine\obj\Debug\PIDeffine.pdb
+C:\Users\algagu01\Desktop\DeffinePI\PIDeffine\obj\Debug\PIDeffine.FrmCorreoAyuda.resources
+C:\Users\Alvaro\Desktop\Deffine BUENO\DeffinePI\PIDeffine\bin\Debug\PIDeffine.exe.config
+C:\Users\Alvaro\Desktop\Deffine BUENO\DeffinePI\PIDeffine\bin\Debug\PIDeffine.exe
+C:\Users\Alvaro\Desktop\Deffine BUENO\DeffinePI\PIDeffine\bin\Debug\PIDeffine.pdb
+C:\Users\Alvaro\Desktop\Deffine BUENO\DeffinePI\PIDeffine\bin\Debug\EN-GB\PIDeffine.resources.dll
+C:\Users\Alvaro\Desktop\Deffine BUENO\DeffinePI\PIDeffine\bin\Debug\MySqlConnector.dll
+C:\Users\Alvaro\Desktop\Deffine BUENO\DeffinePI\PIDeffine\bin\Debug\System.Buffers.dll
+C:\Users\Alvaro\Desktop\Deffine BUENO\DeffinePI\PIDeffine\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Alvaro\Desktop\Deffine BUENO\DeffinePI\PIDeffine\bin\Debug\System.Memory.dll
+C:\Users\Alvaro\Desktop\Deffine BUENO\DeffinePI\PIDeffine\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Alvaro\Desktop\Deffine BUENO\DeffinePI\PIDeffine\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Alvaro\Desktop\Deffine BUENO\DeffinePI\PIDeffine\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Alvaro\Desktop\Deffine BUENO\DeffinePI\PIDeffine\bin\Debug\MySqlConnector.xml
+C:\Users\Alvaro\Desktop\Deffine BUENO\DeffinePI\PIDeffine\bin\Debug\System.Buffers.xml
+C:\Users\Alvaro\Desktop\Deffine BUENO\DeffinePI\PIDeffine\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Alvaro\Desktop\Deffine BUENO\DeffinePI\PIDeffine\bin\Debug\System.Memory.xml
+C:\Users\Alvaro\Desktop\Deffine BUENO\DeffinePI\PIDeffine\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Alvaro\Desktop\Deffine BUENO\DeffinePI\PIDeffine\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Alvaro\Desktop\Deffine BUENO\DeffinePI\PIDeffine\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Alvaro\Desktop\Deffine BUENO\DeffinePI\PIDeffine\obj\Debug\PIDeffine.csproj.AssemblyReference.cache
+C:\Users\Alvaro\Desktop\Deffine BUENO\DeffinePI\PIDeffine\obj\Debug\PIDeffine.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alvaro\Desktop\Deffine BUENO\DeffinePI\PIDeffine\obj\Debug\PIDeffine.g.resources
+C:\Users\Alvaro\Desktop\Deffine BUENO\DeffinePI\PIDeffine\obj\Debug\PIDeffine.FrmAdmin.resources
+C:\Users\Alvaro\Desktop\Deffine BUENO\DeffinePI\PIDeffine\obj\Debug\PIDeffine.FrmCarrito.resources
+C:\Users\Alvaro\Desktop\Deffine BUENO\DeffinePI\PIDeffine\obj\Debug\PIDeffine.FrmCorreoAyuda.resources
+C:\Users\Alvaro\Desktop\Deffine BUENO\DeffinePI\PIDeffine\obj\Debug\PIDeffine.FrmDisenyo.resources
+C:\Users\Alvaro\Desktop\Deffine BUENO\DeffinePI\PIDeffine\obj\Debug\PIDeffine.FrmGuiaDeTallas.resources
+C:\Users\Alvaro\Desktop\Deffine BUENO\DeffinePI\PIDeffine\obj\Debug\PIDeffine.FrmPedido.resources
+C:\Users\Alvaro\Desktop\Deffine BUENO\DeffinePI\PIDeffine\obj\Debug\PIDeffine.FrmRegistro.resources
+C:\Users\Alvaro\Desktop\Deffine BUENO\DeffinePI\PIDeffine\obj\Debug\PIDeffine.FrmTienda.resources
+C:\Users\Alvaro\Desktop\Deffine BUENO\DeffinePI\PIDeffine\obj\Debug\PIDeffine.FrmInicio.resources
+C:\Users\Alvaro\Desktop\Deffine BUENO\DeffinePI\PIDeffine\obj\Debug\PIDeffine.Properties.Resources.resources
+C:\Users\Alvaro\Desktop\Deffine BUENO\DeffinePI\PIDeffine\obj\Debug\PIDeffine.RecursosLocalizables.StringRecursos.resources
+C:\Users\Alvaro\Desktop\Deffine BUENO\DeffinePI\PIDeffine\obj\Debug\PIDeffine.RecursosLocalizables.StringRecursos.EN-GB.resources
+C:\Users\Alvaro\Desktop\Deffine BUENO\DeffinePI\PIDeffine\obj\Debug\PIDeffine.csproj.GenerateResource.cache
+C:\Users\Alvaro\Desktop\Deffine BUENO\DeffinePI\PIDeffine\obj\Debug\PIDeffine.csproj.CoreCompileInputs.cache
+C:\Users\Alvaro\Desktop\Deffine BUENO\DeffinePI\PIDeffine\obj\Debug\EN-GB\PIDeffine.resources.dll
+C:\Users\Alvaro\Desktop\Deffine BUENO\DeffinePI\PIDeffine\obj\Debug\PIDeffine.csproj.CopyComplete
+C:\Users\Alvaro\Desktop\Deffine BUENO\DeffinePI\PIDeffine\obj\Debug\PIDeffine.exe
+C:\Users\Alvaro\Desktop\Deffine BUENO\DeffinePI\PIDeffine\obj\Debug\PIDeffine.pdb

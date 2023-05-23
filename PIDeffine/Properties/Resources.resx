@@ -1,0 +1,415 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="camisetatirantesverdebuena" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\camisetatirantesverdebuena.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="elipseazulS" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\elipseazulS.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Carrito1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Carrito1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="elipseverde" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\elipseverde.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="camisetaverde" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\camisetaverde.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\logo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="camiseta-m-c-roly-beagle-removebg-preview" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\camiseta-m-c-roly-beagle-removebg-preview.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="camilargaS" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\camilargaS.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="camisetanegra" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\camisetanegra.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="caminegrasudadera" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\caminegrasudadera.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="camisetalargadisenyo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\camisetalargadisenyo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="elipsenegraS" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\elipsenegraS.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="image-removebg-preview (12)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\image-removebg-preview (12).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="camilargaazul" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\camilargaazul.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Linea 1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Linea 1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="camiseta-roly-dogo-negra-1200Wx1200H-removebg-preview" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\camiseta-roly-dogo-negra-1200Wx1200H-removebg-preview.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="camiseta-m-c-roly-beagle" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\camiseta-m-c-roly-beagle.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="camisetaHombreRubio" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\camisetaHombreRubio.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="engli-removebg-preview - copia" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\engli-removebg-preview - copia.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="camisudaderablanca" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\camisudaderablanca.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Linea 2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Linea 2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="disenyowili" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\disenyowili.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="camitirantesverde" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\camitirantesverde.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="loguott" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\loguott.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Rectangule 5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Rectangule 5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="RegistrarBtont" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\RegistrarBtont.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btttvolver" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btttvolver.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="necobien" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\necobien.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="camisudaderaverde" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\camisudaderaverde.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="deffinetitulazo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\deffinetitulazo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="camisetaazul" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\camisetaazul.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CamitirantesS2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CamitirantesS2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="kologpistol" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\kologpistol.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Line 1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Line 1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Linea 3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Linea 3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="zapaatillass" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\zapaatillass.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="camiazulsudadera" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\camiazulsudadera.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="FONDOGRISS" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\FONDOGRISS.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cerrar" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cerrar.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="image-removebg-preview (13)1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\image-removebg-preview (13)1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SusdaderaS" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\SusdaderaS.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="camitirantesazul" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\camitirantesazul.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="elipseverdeS" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\elipseverdeS.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="disenyocalavera" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\disenyocalavera.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="caminegratirantes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\caminegratirantes.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="camisetablancainixio" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\camisetablancainixio.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="camilargaverde" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\camilargaverde.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="engli1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\engli1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Rectangle 10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Rectangle 10.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="camisetaninyo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\camisetaninyo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="camisetamujer" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\camisetamujer.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="admin" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\admin.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="camilarganegra" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\camilarganegra.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mc" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\mc.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="logo-removebg-preview" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\logo-removebg-preview.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="deffinneeHeader" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\deffinneeHeader.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="deffinnetitulo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\deffinnetitulo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="elipseblancaS" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\elipseblancaS.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CA6554_20_2_1-removebg-preview" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CA6554_20_2_1-removebg-preview.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="disenyocorazon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\disenyocorazon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="image-removebg-preview (11)11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\image-removebg-preview (11)1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="RegistrarHHover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\RegistrarHHover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="camisetakeepcalm" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\camisetakeepcalm.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Group11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Group11.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="camisetasudaderadisenyo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\camisetasudaderadisenyo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="engli-removebg-preview" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\engli-removebg-preview.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CA6554_20_2_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CA6554_20_2_1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="camitirantesblanca" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\camitirantesblanca.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="vaqueross" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\vaqueross.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="car" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\car.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="guiadetallas" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\guiadetallas.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="deffineinicio" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\deffineinicio.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ellipse 2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Ellipse 2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="camiblanca" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\camiblanca.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cerradoojo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cerradoojo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="abiertoojo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\abiertoojo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="gato" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\gato.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="camiblancalarga" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\camiblancalarga.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="engli" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\engli.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="minimizzar" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\minimizzar.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="image-removebg-preview (13)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\image-removebg-preview (13).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hombre 1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hombre 1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="camiblancaS" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\camiblancaS.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hombredisenyoinicio" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hombredisenyoinicio.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="loginnn" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\loginnn.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="elipseblanca" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\elipseblanca.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="camisetatirantesdisenyo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\camisetatirantesdisenyo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="esppp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\esppp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="camisetarubius" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\camisetarubius.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="elipseazul" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\elipseazul.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="camisetablancadisenyo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\camisetablancadisenyo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Carrito" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Carrito.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="camitirantesS" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\camitirantesS.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="camiseta-roly-dogo-negra-1200Wx1200H" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\camiseta-roly-dogo-negra-1200Wx1200H.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="logo3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\logo3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="image-removebg-preview (11)1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\image-removebg-preview (11)1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="elipsenegra" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\elipsenegra.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="logo4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\logo4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+</root>
